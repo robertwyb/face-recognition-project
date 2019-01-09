@@ -1,0 +1,3 @@
+# face-recognition-project
+This project aims at recognizing faces in an environment with several people. A panorama picture will be constructed. Gender, age and distance to camera of all recognized faces will be labeled in the image. From my perspective, this is a quality project to show what we have learned through this semester. This project can be used as tools to produce panorama or wide angle selfie with face tag. And with additional hardware help, it can be an assistance software for blind that can tell them who are surrounding them and how far they are.  
+To accomplish this goal, we use SIFT, Homograph computing, image cutting, Geometry computing and neural network. 
